@@ -45,3 +45,6 @@ myenv/
 # OS files
 .DS_Store
 Thumbs.db
+
+# DataSets
+coffee_churn_dataset.csv
